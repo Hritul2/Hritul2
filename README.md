@@ -26,9 +26,6 @@
   - 🛠️ Successfully repurposed existing hardware via open-source NAS solution
 
 ## Projects 🚧
-- **Capstone Project- ToDo List** (July 2023)
-  - Created dynamic ToDo List web app using Node.js, Express.js, and EJS
-  - 💻 [GitHub Repo](https://github.com/Hritul2/Capstone-Project-ToDoList)
 
 ## Certifications 🏆
 - **Google Cloud Platform Badges**
