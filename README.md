@@ -1,49 +1,46 @@
-# Hritul Srivastava 🚀
+# Hritul Srivastava | Software Engineer 🚀
 
-📧 Email: hritul.srivastava@gmail.com |
-🌐 [LinkedIn](https://www.linkedin.com/in/hritul/) | 🐙 [GitHub](https://github.com/Hritul2)
-📍 Address: B1-57 Kribhco Nagar, Piprola Kant, Shajahanpur, UP, India 242001
+## About Me
+Software engineer with a passion for building high-performance, scalable systems. Specialized in web technologies, distributed systems, and innovative software solutions.
 
-## Education
-- **B.Tech in Computer Science and Engineering**
-  - The LNM Institute of Information Technology, Jaipur, India
-  - May 2024
+## 🛠 Tech Stack
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-## Skills 🛠️
-- Solidity, Java, JavaScript, Swift, LLVM, C, Linux
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- HTML, CSS
-- Google Cloud Platform (GCP) - 8 Google Cloud Badges attained
+### Technologies
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-## Entrepreneurial Experience 💼
-- **Co-Founder | Hostelers Bay** (July 2023 - Present)
-  - 🔗 [Hostelers Bay](https://www.hostelersbay.com)
-  - Orchestrated impactful marketing campaigns, managed customer relations
+## 🚀 Notable Projects
 
-## Startup Experience 👨‍💻
-- **Co-Founder & Development Expert | Circle | Technology** (Aug 2022 - Feb 2023)
-  - 🚀 Led team to create user-friendly Network Attached Storage solution
-  - 🛠️ Successfully repurposed existing hardware via open-source NAS solution
+### Stock Exchange Platform
+- Real-time trading platform handling 5,000+ concurrent users
+- High-performance order matching engine processing 500+ trades/second
+- 99.99% matching accuracy with 40% reduced transaction latency
 
-## Projects 🚧
+### Scalable ChatGPT-like Conversational AI
+- Microservices architecture on Kubernetes
+- 10,000+ concurrent users with 35% reduced infrastructure costs
+- 99.9% uptime, 500 requests/second with dynamic load balancing
 
-## Certifications 🏆
-- **Google Cloud Platform Badges**
-  - Foundation of Cloud Computing (10.0/10.0)
-  - [Profile Link](https://www.cloudskillsboost.google/public_profiles/dcbff0dd-9864-4260-8406-99634cb24844)
+### Full-Stack E-Commerce Platform
+- Comprehensive platform with modular architecture
+- Advanced authentication and product management
+- 30% reduced cart abandonment, 22% increase in completed purchases
 
-## Ethical Hacking 💻🔒
-- **Blockchain Security Enthusiast**
-  - Completed 22 challenges on Ethernaut
-  - Ethernaut Address: 0x376f450062039ae03BdcE2708Be741477E67211E
+## 🏆 Achievements
+- Best Pitch at SharkTank, LNMIIT (February 2023)
+- BloodConnect - Volunteer of the Month (July 2022)
 
-## Extracurricular Activities 🌟
-- Actively contributed to the UnStop Interface, displaying leadership and people management
-- Ethical Hacking: Successfully solved 20+ Ethernaut challenges
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritul/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Hritul2)
 
-## Additional Skills 🌈
-- Swift (Basic)
-- Problem-solving
-- Project Management
-- Teamwork and Collaboration
-
+📧 Email: hritul.srivastava@gmail.com
