@@ -1,46 +1,33 @@
-# Hritul Srivastava | Software Engineer 🚀
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=hritul2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88788304%3Fu%3D46a55a73e0414b87abdcbffb867b6231656ee8f1%26v%3D4" alt="hritul2 hero visual" />
+</p>
 
-## About Me
-Software engineer with a passion for building high-performance, scalable systems. Specialized in web technologies, distributed systems, and innovative software solutions.
+## The city I built this year
 
-## 🛠 Tech Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=hritul2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88788304%3Fu%3D46a55a73e0414b87abdcbffb867b6231656ee8f1%26v%3D4" alt="hritul2 city visual" />
+</p>
 
-### Technologies
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
 
-## 🚀 Notable Projects
+## Population
 
-### Stock Exchange Platform
-- Real-time trading platform handling 5,000+ concurrent users
-- High-performance order matching engine processing 500+ trades/second
-- 99.99% matching accuracy with 40% reduced transaction latency
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=hritul2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88788304%3Fu%3D46a55a73e0414b87abdcbffb867b6231656ee8f1%26v%3D4" alt="hritul2 stats visual" />
+</p>
 
-### Scalable ChatGPT-like Conversational AI
-- Microservices architecture on Kubernetes
-- 10,000+ concurrent users with 35% reduced infrastructure costs
-- 99.9% uptime, 500 requests/second with dynamic load balancing
+## Landmarks
 
-### Full-Stack E-Commerce Platform
-- Comprehensive platform with modular architecture
-- Advanced authentication and product management
-- 30% reduced cart abandonment, 22% increase in completed purchases
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=hritul2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88788304%3Fu%3D46a55a73e0414b87abdcbffb867b6231656ee8f1%26v%3D4" alt="hritul2 projects visual" />
+</p>
 
-## 🏆 Achievements
-- Best Pitch at SharkTank, LNMIIT (February 2023)
-- BloodConnect - Volunteer of the Month (July 2022)
+## Visit
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritul/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Hritul2)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=hritul2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88788304%3Fu%3D46a55a73e0414b87abdcbffb867b6231656ee8f1%26v%3D4" alt="hritul2 social visual" />
+</p>
 
-📧 Email: hritul.srivastava@gmail.com
+<p align="center"><a href="https://github.com/hritul2">GitHub</a> · <a href="https://x.com/_Hritul_">X</a></p>
+
+<p align="center"><sub>Hritul · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
